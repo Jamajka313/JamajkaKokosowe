@@ -13,5 +13,10 @@
         Console.Clear();
 
         tablice.Wyswietl_Tablice(tab);
+
+        tablice.SortujBabelkowo(tab);
+
+        tablice.Wyswietl_Tablice(tab);
     }
 }
+ 
